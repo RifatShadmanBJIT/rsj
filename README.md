@@ -1,3 +1,4 @@
+initial line on the development branch
 ## Usage
 
 - **Search for Restaurant**: Use the search functionary to find dining options based on your preference
@@ -19,3 +20,4 @@ Thank you to the following contirbutors who have helped to improve this project:
 | Ahasanul Haque |ahasanul.haque@bjitacademy.com| +8801234567 |
 | Rifat Shadman | rifat.shadman@bjitacademy.com | +8801234567 |
 | Arifa Akter | arifa.akter@bjitacademy.com | +8801234567 |
+
